@@ -1,7 +1,9 @@
 let js = "amazing";
 if (js === "amazing");
-alert("JavaScript is Fun!");
+alert("JavaScript is not Fun!");
 
-40 + 8 + 4 + 89 + 1
-console.log(40 + 8 + 4 + 89 + 1)
+
+42 + 201 + 255 + 26
+console.log(42 + 201 + 255 + 26)
+
 
